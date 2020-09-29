@@ -1,9 +1,9 @@
-title: Hacker-Blog
+title: SMCSECU - BLOG
 description: "A Jekyll Blog Theme For Hackers"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "SMCSECU"
+  email: "smcsecu@smc.hs.kr"
+  url: "https://smcsecu.github.io"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "SMCSECU"
 year : "2020"
